@@ -24,3 +24,4 @@ yarn-error.log*
 .idea/vcs.xml
 .idea/php.xml
 .idea/aws.xml
+.idea/inspectionProfiles/Project_Default.xml
